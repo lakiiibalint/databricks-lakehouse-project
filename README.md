@@ -24,9 +24,9 @@ It covers the full lifecycle of modern data engineering:
 
 This project is **independently implemented by me**, inspired by a learning concept from **[Baraa](https://github.com/DataWithBaraa)**.
 
----
+--- 
 
-##🏗️ Layers
+## 🏗️ Layers
 
 Raw CSV Files  
 ↓  
