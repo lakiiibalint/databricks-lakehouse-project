@@ -1,6 +1,6 @@
 # 🚀 End-to-End Data Lakehouse on Databricks
 
-This project demonstrates how to build a **production-style Data Lakehouse** from scratch using **Databricks** and the **Medallion Architecture (Bronze → Silver → Gold)**.
+This project demonstrates how to build a **production-style Data Lakehouse** from scratch using **Databricks** free edition and the **Medallion Architecture (Bronze → Silver → Gold)**.
 
 It covers the full lifecycle of modern data engineering:
 - Data ingestion  
@@ -26,18 +26,17 @@ This project is **independently implemented by me**, inspired by a learning conc
 
 ---
 
-🏗️ Architecture
+##🏗️ Layers
 
-Raw CSV Files
-      ↓
-🥉 Bronze Layer (Raw Ingestion)
-      ↓
-🥈 Silver Layer (Cleaned & Standardized)
-      ↓
-🥇 Gold Layer (Business-ready Data Model)
-      ↓
+Raw CSV Files  
+↓  
+🥉 Bronze Layer (Raw Ingestion)  
+↓  
+🥈 Silver Layer (Cleaned & Standardized)  
+↓  
+🥇 Gold Layer (Business-ready Data Model)  
+↓  
 📊 Analytics / BI Ready
-
 
 ## 🥉 Bronze Layer
 
